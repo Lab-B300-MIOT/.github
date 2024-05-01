@@ -8,13 +8,14 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment:
+      name: production
+    permissions:
+      contents: write
     steps:
-      # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Lab-B300-MIOT
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
