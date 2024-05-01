@@ -6,6 +6,8 @@ Selamat datang di halaman GitHub Organisasi Laboratorium Multimedia Internet of 
 
 Laboratorium Multimedia IoT adalah pusat keunggulan yang berfokus pada penelitian dan pengembangan teknologi multimedia dan Internet of Things. Kami berkolaborasi dengan industri, akademisi, dan komunitas teknologi untuk mengembangkan proyek yang tidak hanya inovatif tetapi juga memiliki dampak sosial yang signifikan.
 
+![Metrics](https://github.com/Lab-B300-MIOT/.github/blob/main/github-metrics.svg)
+
 ## Area Penelitian
 
 Kami fokus pada berbagai area penelitian, termasuk namun tidak terbatas pada:
